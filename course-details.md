@@ -19,7 +19,7 @@ By the end of this course, the student should be able to (practically):
 
 The learning activities are designed based on these following references:
 
-- **Ref-B01**: Book, Bill Lubanovic; "Introducing Python: Modern Computing in Simple Packages"; [Available here](https://www.oreilly.com/library/view/introducing-python-2nd/9781492051374/) 
-- **Ref-B02**: Book, Ben Stephenson; “The Python Workbook: A Brief Introduction with Exercises and Solutions”; [Available here](https://link.springer.com/book/10.1007/978-3-030-18873-3)
-- **Ref-O02**: Online Tutorial; Charles Severance; "Python for Everybody"; [Available here](https://books.trinket.io/pfe/index.html)
+- **BRef-01**: Book, Bill Lubanovic; "Introducing Python: Modern Computing in Simple Packages"; [Available here](https://www.oreilly.com/library/view/introducing-python-2nd/9781492051374/) 
+- **BRef-02**: Book, Ben Stephenson; “The Python Workbook: A Brief Introduction with Exercises and Solutions”; [Available here](https://link.springer.com/book/10.1007/978-3-030-18873-3)
+- **ORef-O3**: Online Tutorial; Charles Severance; "Python for Everybody"; [Available here](https://books.trinket.io/pfe/index.html)
 ​
